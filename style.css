@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+    cursor: url('data:image/x-icon;base64,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'), auto;
+}
+header{
+    /* border: solid red; */
+    height: 15vh;
+}
+header section{
+    /* border: solid red; */
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: solid 1px rgb(192, 186, 186);
+}
+header figure{
+    /* border: solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 15vw;
+}
+h2{
+    font-weight: 500px;
+}
+header ul{
+    /* border: solid red; */
+    width: 30vw;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+header li{
+    font-size: large;
+}
+li:hover{
+    color: orangered;
+    transform: scale(110%);
+}
+main{
+    /* border: solid red; */
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.botão{
+    width: 30vw;
+    height: 45vh;
+    /* border: solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+p{
+    font-size: 27px;
+    font-weight: 900;
+}
+.redes{
+    position: relative;
+    left: 6px;
+}
+.linkedin{
+    position: relative;
+    left: 3px;
+}
+.twitter{
+    position: relative;
+    left: 6px;
+}
+
+
+@media screen and (max-width:500px){
+    header section{
+        /* border: solid black; */
+        flex-direction: column;
+        height: 20vh;
+    }
+    header figure{
+        width: 36vw;
+        /* border: solid red; */
+    }
+    header ul{
+        width: 44vw;
+        /* border: solid blue; */
+    }
+    .copo{
+        display: none;
+    }
+    main{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .botão{
+        /* border: solid red; */
+        height: 80vh;
+        width: 70vw;
+        justify-content: center;
+    }
+    .redes{
+        width: 64vw;
+        /* border: solid red; */
+        display: flex;
+        justify-content: center;
+        
+    }
+    .botão2{
+        /* border: solid blue; */
+        display: flex;
+        justify-content: center;
+        height: 13vh;
+        align-items: center;
+
+    }
+    .linkedin{
+        position: relative;
+        left: 5px;
+    }
+    .twitter{
+        position: relative;
+        left: 10px;
+    }
+    .botão2 img {
+        height: 8vh;
+    }
+    
+}
